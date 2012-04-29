@@ -1,0 +1,78 @@
+silverfish: true
+web: true
+string: true
+chainBoots: true
+chainLeggings: true
+chainChestplate: true
+chainHelmet: true
+netherBrick: true
+saddle: true
+grass: true
+mossStone: true
+ice: true
+mycelium: true
+crackedStoneBrick: true
+mossyStoneBricks: true
+sand: true
+clay: true
+apple: true
+clayBlock: true
+sponge: true
+cocoaBeans: true
+blackMusicDisc: true
+brokenMusicDisc: true
+cyanMusicDisc: true
+forestGreenMusicDisc: true
+goldMusicDisc: true
+greenMusicDisc: true
+orangeMusicDisc: true
+purpleMusicDisc: true
+redMusicDisc: true
+whiteMusicDisc: true
+blueMusicDisc: true
+stick: true
+wood: true
+glowstoneDust: true
+fern: true
+vines: true
+lilyPad: true
+tallGrass: true
+ironOre: true
+goldOre: true
+redstoneOre: true
+lapisOre: true
+coalOre: true
+diamondOre: true
+otherLeaves: true
+blazeRod: true
+slimeball: true
+ghastTear: true
+netherWart: true
+gunpowder: true
+enderPearl: true
+allMonsterEggs: true
+monsterEggs:
+  creeper: true
+  skeleton: true
+  spider: true
+  giant: true
+  zombie: true
+  slime: true
+  ghast: true
+  pigzombie: true
+  enderman: true
+  cavespider: true
+  silverfish: true
+  blaze: true
+  magmacube: true
+  pork: true
+  sheep: true
+  cow: true
+  chicken: true
+  squid: true
+  wolf: true
+  mooshroom: true
+  snowgolem: true
+  ocelot: true
+  irongolem: true
+  villager: true
